@@ -39,7 +39,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-# ** 주의사항 **
+## *주의사항*
 - db는 예시 파일이므로 삭제 후 최초 실행
 - streamlit 기반 앱이기 때문에 파이썬 코드실행이 아닌 streamlit run app.py로 실행해야 함
 - main이 아닌 app을 실행해야 함
