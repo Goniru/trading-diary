@@ -23,6 +23,7 @@ Streamlit과 SQLite를 이용해 만든 간단한 주식 매매 일기 웹 앱�
 
 ## 🚀 실행 방법
 
+mac 터미널 혹은 윈도우 cmd 창에
 ```bash
 # 1. 저장소 클론
 git clone https://github.com/Goniru/trading-diary.git
@@ -40,7 +41,7 @@ streamlit run app.py
 ```
 
 ## *주의사항*
-- db는 예시 파일이므로 삭제 후 최초 실행
+- db는 예시 파일이므로 본인이 사용하기 전 삭제
 - streamlit 기반 앱이기 때문에 파이썬 코드실행이 아닌 streamlit run app.py로 실행해야 함
 - main이 아닌 app을 실행해야 함
 
