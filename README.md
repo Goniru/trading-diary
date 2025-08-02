@@ -37,6 +37,7 @@ pip install -r requirements.txt
 
 # 4. 실행
 streamlit run app.py
+```
 
 # ** 주의사항 **
 - db는 예시 파일이므로 삭제 후 최초 실행
