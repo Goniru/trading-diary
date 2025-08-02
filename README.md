@@ -26,7 +26,7 @@ Streamlit과 SQLite를 이용해 만든 간단한 주식 매매 일기 웹 앱�
 ```bash
 # 1. 저장소 클론
 git clone https://github.com/Goniru/trading-diary.git
-cd your-repo-name
+cd trading-diary
 
 # 2. 가상환경 설정 (선택)
 python -m venv venv
