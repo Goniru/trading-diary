@@ -1,0 +1,8 @@
+[project]
+name = "trading-diary"
+version = "0.1.0"
+dependencies = [
+  "streamlit",
+  "pandas",
+  "yfinance"
+]
